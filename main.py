@@ -21,7 +21,7 @@
 # print(table)
 
 
-# A coffee machine by using OOP (object oriented programming)
+# A coffee machine by using OOP (object-oriented programming)
 
 from menu import Menu, MenuItem
 from coffee_maker import CoffeeMaker
